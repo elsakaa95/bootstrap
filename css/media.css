@@ -1,0 +1,33 @@
+@media (max-width:767px)
+{
+  .work{
+    text-align: center;
+  }
+  .navbar-fixed-top .navbar-collapse,
+  .navbar-fixed-bottom .navbar-collapse
+  {
+  max-height: none;
+  }
+  .navbar-inverse .navbar-nav > li > a
+  {
+    padding-top: :10px;
+    padding-bottom: 10px;
+  }
+}
+.navbar-fixed-top .navbar-collapse,
+.navbar-fixed-bottom .navbar-collapse
+{
+
+}
+@media (min-width:768px)and(max-width:991px)
+ {
+
+}
+@media (min-width:992px)and(max-width:1199px)
+{
+
+}
+@media(min-width:1200px)
+  {
+
+}
